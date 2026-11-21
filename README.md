@@ -14,7 +14,7 @@ Two free, open-source MetaTrader 5 (MQL5) risk-management Expert Advisors built 
 ## Companion Free Web Tools & Official Links
 
 - **Official Website:** https://sunspotalgo.com/en/
-- **Free Web Position Size Calculator (Forex / Gold XAUUSD / Crypto / MT5 specs):** https://sunspotalgo.com/tools/position-sizing/
+- **Free Web Position Size Calculator (Forex / Gold XAUUSD / Crypto / MT5 specs):** https://sunspotalgo.com/en/tools/position-sizing/
 - **Full MT5 Risk Tools Guide:** https://sunspotalgo.com/docs/mt5-tools/
 - **Telegram Public Channel (Free 4H MiX Signals):** https://t.me/SunspotSignal
 - **TradingView Script Page (MiX Indicator):** https://www.tradingview.com/script/u7G1zSjA/
